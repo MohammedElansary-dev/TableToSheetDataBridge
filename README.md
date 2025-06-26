@@ -112,6 +112,6 @@ MIT License — use freely, contribute back if helpful 💙
 
 ## 👏 Author
 
-Created by \Mohamed El-ansary. This tool was built to help with structured data transformations in Excel workflows.
+Created by Mohamed El-ansary. This tool was built to help with structured data transformations in Excel workflows.
 
 ---
